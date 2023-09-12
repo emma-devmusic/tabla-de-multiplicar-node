@@ -1,1 +1,6 @@
-/salida/*.txt
+
+
+node_modules/
+
+salida/*.txt
+
